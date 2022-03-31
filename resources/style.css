@@ -1,0 +1,44 @@
+.contain{
+    width:400px;
+    hight:600px;
+    background-color: aqua;
+    text-align: center;
+    border-radius: 5px;
+    
+
+}
+.inputs{
+    margin-top: 20px;
+    padding: 10px;
+}
+.inputs label{
+    background-color:gray;
+    margin-right: 5px;
+    padding: 5px;
+    border-radius: 5px;
+}
+.controlers input{
+    background-color:rgb(17, 226, 45);
+    margin: 5px;
+    padding: 5px;
+    border-radius: 5px;
+}
+.container{
+    width:400px;
+    hight:600px;
+    background-color: aqua;
+    text-align: center;
+    border-radius: 5px;
+    
+
+}
+.ins{
+    margin: 15px;
+    border-radius: 5px;
+    padding: 5px;
+}
+.ins div{
+    margin: 15px;
+    border-radius: 5px;
+    padding: 5px;
+}

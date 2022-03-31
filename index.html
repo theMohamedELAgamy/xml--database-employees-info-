@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="resources/style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="ins">
+            <div>
+                <label for="name">Name</label>
+                <input type="text" id="nameID" name="name">
+            </div>
+            <div>
+                <label for="phone">Phone</label>
+                <input type="text" id="phoneID" name="phone">
+            </div>
+            <div>
+                <label for="address">Address</label>
+                <input type="text" id="addressID" name="address">
+            </div>
+            <div>
+                <label for="emial">email</label>
+                <input type="text" id="emailID" name="email">
+            </div>
+        </div>
+        
+        <div class="btn">
+            <button class="bts" onclick="insertData()">Insert</button>
+            <button class="bts" onclick="updateData()">Update</button>
+            <button class="bts" onclick="deleteData()">Delete</button>
+            <button class="bts" onclick="searchbyName()" style="font-size: 12px; padding: 15.5px 20px;">Search by Name</button>
+        </div>
+        <div class="btn">
+            <button class="bts" onclick="prevb()">Previous</button>
+            <button class="bts" onclick="nextb()">Next</button>
+        </div>
+
+    </div>
+
+    <script src="resources/funs.js"></script>
+    
+</body>
+</html>

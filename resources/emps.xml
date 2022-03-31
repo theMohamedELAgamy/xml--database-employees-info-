@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--<?xml-stylesheet href="style.css" type="text/css"?>-->
+<?xml-stylesheet type="text/xsl" href="style.xsl"?>
+<emps>
+    <employee>
+            <name>gamal</name>
+            <phone type="mobile">0112215253</phone>
+            <address>1 solar st Upper Aswan Egypt</address>
+            <email>gamal@gmail.com</email>
+    </employee>
+    <employee>
+        <name>abdalla</name>
+        <phone type="mobile">01754846814</phone>
+        <address>2 moon st lower Aswan Egypt</address>
+        <email>abdo@gmail.com</email>
+    </employee>
+    <employee>
+        <name>mohamed</name>
+        <phone type="mobile">01564654654</phone>
+        <address>3 jupitar st middle Aswan Egypt</address>
+        <email>mohamed@gmail.com</email>
+    </employee>
+    <employee>
+        <name>adel</name>
+        <phone type="work">0112145214</phone>
+        <address>3 Mars st inbetween Aswan Egypt</address>
+        <email>adel@gmail.com</email>
+    </employee>
+</emps>
